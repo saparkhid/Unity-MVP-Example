@@ -4,7 +4,7 @@ The Game projects have thier own patterns. as you may know the Entity–componen
 
 But there are some people that use the Unity for building Android/iOS applicaitons. also implementing the MVC in the Unity3D may be useful. also we can use MVC pattern for the game UI. Since the MVP is used mostly for building user interfaces I have decided to port it into unity with some working examples.
 
-MVP is a user interface architectural pattern engineered to facilitate automated unit testing and improve the separation of concerns in presentation logic:
+MVP is the user interface architectural pattern engineered to facilitate automated unit testing and improve the separation of concerns in presentation logic:
 
 * The model is an interface defining the data to be displayed or otherwise acted upon in the user interface.
 * The view is a passive interface that displays data (the model) and routes user commands (events) to the presenter to act upon that data.

@@ -2,7 +2,7 @@
 
 The Game projects have thier own patterns. as you may know the Entity–component–system (ECS) is an architectural pattern that is mostly used in game development. So the Unity is started to bring the implemention of this architecure in its own engine.
 
-But there are some people that use the Unity for building Android/iOS applicaitons. also implementing the MVC in Unity3D may be useful. also we can use MVC pattern for the game GUI.since the MVP is used mostly for building user interfaces I have decided to port it into unity with some working samples.
+But there are some people that use the Unity for building Android/iOS applicaitons. also implementing the MVC in the Unity3D may be useful. also we can use MVC pattern for the game UI. Since the MVP is used mostly for building user interfaces I have decided to port it into unity with some working examples.
 
 MVP is a user interface architectural pattern engineered to facilitate automated unit testing and improve the separation of concerns in presentation logic:
 

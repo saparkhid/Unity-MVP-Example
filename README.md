@@ -10,5 +10,5 @@ MVP is a user interface architectural pattern engineered to facilitate automated
 * The view is a passive interface that displays data (the model) and routes user commands (events) to the presenter to act upon that data.
 * The presenter acts upon the model and the view. It retrieves data from repositories (the model), and formats it for display in the view.
 
-## lets get start
+## Lets Get Start
 You can clone the repository and then you can read the doucmentation here.

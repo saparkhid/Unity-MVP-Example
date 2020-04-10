@@ -16,3 +16,6 @@ You can clone the repository and then you can read the doucmentation here.
 I have used the following sprites for this project:
 
 [https://craftpix.net/freebies/blacksmith-herbalist-hunter-jeweler-free-npc-character-pack/](https://craftpix.net/freebies/blacksmith-herbalist-hunter-jeweler-free-npc-character-pack/)
+
+[https://craftpix.net/freebies/free-jumping-up-game-objects/](https://craftpix.net/freebies/free-jumping-up-game-objects/)
+

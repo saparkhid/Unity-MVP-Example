@@ -12,3 +12,7 @@ MVP is the user interface architectural pattern engineered to facilitate automat
 
 ## Lets Get Start
 You can clone the repository and then you can read the doucmentation here.
+
+I have used the sprites for this project:
+
+[https://craftpix.net/freebies/blacksmith-herbalist-hunter-jeweler-free-npc-character-pack/](https://craftpix.net/freebies/blacksmith-herbalist-hunter-jeweler-free-npc-character-pack/)

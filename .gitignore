@@ -1,4 +1,5 @@
 
+unity-mvp-sample-project/.vs
 unity-mvp-sample-project/Library
 unity-mvp-sample-project/Library/AnnotationManager
 unity-mvp-sample-project/Library/ArtifactDB
@@ -1075,3 +1076,4 @@ unity-mvp-sample-project/Library/Artifacts/58/58da502ab28e81ae5cccccde2f0a77bc
 unity-mvp-sample-project/Library/Artifacts/59/590f71c7bca790a5c78e95e9b0a519de
 unity-mvp-sample-project/Library/Artifacts/59/598ee651fa0def90d504af58b70c1a82
 unity-mvp-sample-project/obj/Debug/Assembly-CSharp.csprojAssemblyReference.cache
+unity-mvp-sample-project/Temp/UnityLockfile
